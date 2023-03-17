@@ -1,10 +1,16 @@
 # Portfolio
 ---
-### K-Means Visualization Phyton
+### GUI Phyton for K-Means Visualization
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Visualisasi K-Means.html)
 
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+<div style="text-align: justify">K-Means clustering is an unsupervised machine learning algorithm that is used for clustering data points into groups based on their similarity. It works by partitioning the data into k clusters, where k is a predefined number of clusters that you want to form.
+<br>
+Here are the steps involved in the K-Means clustering algorithm:
+1. Choose the number of clusters (k) you want to create.
+2. Randomly initialize k centroids.
+3. Assign each data point to the nearest centroid.
+4. Update the centroids by taking the average of all the data points assigned to each centroid.</div>
 <br>
 <center><img src="images/K-Means Visualization.png"/></center>
 <br>
