@@ -9,7 +9,7 @@
 
 <div style="text-align: justify"><br>
 Here are the steps to Use the K-Means Clustering Visualization GUI<br>
-1. Input data 
+1. Input data<br>
 2. Enter the number of clusters (k) you want to create.<br>
 3. Select the distance to be used (Euclidean or Manhattan)<br>
 4. Enter the distance on the x-axis.<br>
