@@ -14,7 +14,7 @@ Here are the steps to Use the K-Means Clustering Visualization GUI<br>
 3. Select the distance to be used (Euclidean or Manhattan)<br>
 4. Enter the distance on the x-axis.<br>
 5. Enter the distance on the y-axis.<br>
-6. Click the KMeans Plot button..</div>
+6. Click the KMeans Plot button.</div>
 <br>
 <center><img src="images/K-Means Visualization.png"/></center>
 <br>
