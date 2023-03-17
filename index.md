@@ -3,10 +3,10 @@
 ### GUI Phyton for K-Means Cluster Visualization
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)](projects/Visualisasi K-Means.html)
-[![Open Research Poster](https://img.shields.io/badge/CSV-Open%20Data-brightgreen)](csv/irisV1.csv)
+[![Open Research Poster](https://img.shields.io/badge/CSV-Download%20Data-brightgreen)](csv/irisV1.csv)
 
 <div style="text-align: justify">K-Means clustering is an unsupervised machine learning algorithm that is used for clustering data points into groups based on their similarity. It works by partitioning the data into k clusters, where k is a predefined number of clusters that you want to form. Visualization is an essential part of data analysis and machine learning, including K-Means clustering. There are many reasons why visualization is important for k-means clustering, an example is to Understanding the Data, Checking for Clustering Quality, Communicating Results, and Identifying Outliers.
-<br>
+  <br>
 Here are the steps to Use the K-Means Clustering Visualization GUI<br>
 1. Enter the number of clusters (k) you want to create.<br>
 2. Select the distance to be used (Euclidean or Manhattan)<br>
